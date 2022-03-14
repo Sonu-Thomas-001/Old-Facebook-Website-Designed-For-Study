@@ -1,0 +1,180 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue,Helvetica,Arial, sans-serif;
+}
+.logo{
+    width: 45%;
+    padding: 32px;
+    float: left;
+
+}
+.login{
+    width: 45%;
+    float: left;
+
+}
+.logo-text{
+    color: #ffff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none; 
+    font-family: Helvetica Neue,Helvetica,Arial, sans-serif;
+    margin-left: 170px;
+}
+.login-label{
+    color: #ffff;
+    font-size: 11px;
+}
+.login-controls{
+    margin-left:  155px;
+}
+.login{
+    padding-top: 10px;
+}
+.foregotten{
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+
+}
+.sub-btn{
+    background: #4267b2;
+    color: #ffff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background: #9cb4d8;
+
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+
+}
+.right-section{
+    width: 39%;
+    float: left;
+
+}
+.main-body{
+    background:linear-gradient(white, #d3d8e8);
+    width: 100%;
+    height: 750px;
+}
+.image{
+    width: 581px;
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+}
+.para5{
+    font-weight: bold;
+    font-size: 21px;
+    color: red;
+}
+.name-input1{
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    font-size: 15px;
+    border-color: #ffff;
+    margin-bottom: 10px;
+    text-transform:capitalize;
+
+}
+.name-input2{
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    font-size: 15px;
+    border-color: #ffff;
+    margin-left: 10px;
+    text-transform:capitalize;
+}
+.create-account{
+    font-weight: bold;
+
+}
+.create-account-para{
+    font-weight: bold;
+}
+.email-input{
+    margin-left: 0px;
+    height: 30px;
+    width: 420px;
+    border-radius: 5px;
+    font-size: 15px;
+    border-color: #ffff;
+}
+.password-input2{
+    margin-top: 10px;
+    margin-left: 0;
+    height: 30px;
+    width: 420px;
+    border-radius: 5px;
+    font-size: 15px;
+    border-color: #ffff;
+    margin-left: 0px;
+}
+.password-input{
+    margin-top: 10px;
+    margin-left: 0;
+    height: 30px;
+    width: 420px;
+    border-radius: 5px;
+    font-size: 15px;
+    border-color: #ffff;
+    margin-left: 0px;
+}
+.dob{
+    border: solid 1px;
+    border-color: grey;
+    height: 24px;
+}
+.months{
+    border: solid 1px;
+    border-color: grey;
+    height: 24px;
+}
+.year{
+    border: solid 1px;
+    border-color: grey;
+    height: 24px;
+}
+#male{
+    font-weight: bold;
+}
+#female{
+    font-weight: bold;
+}
+#custom{
+    font-weight: bold;
+}
+.sub-btn2{
+    background: green;
+    color: #ffff;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    height: 35px;
+    width: 200px;
+    border-color: none;
+    cursor: pointer;
+}
+.sub-btn2:hover{
+    background: lightgreen;
+
+}
+.create{
+    font-weight: bold;
+}
